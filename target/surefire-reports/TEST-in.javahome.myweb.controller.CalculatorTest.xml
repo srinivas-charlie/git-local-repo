@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< HEAD
 <testsuite tests="2" failures="0" name="in.javahome.myweb.controller.CalculatorTest" time="0.006" errors="0" skipped="0">
+=======
+<testsuite tests="2" failures="0" name="in.javahome.myweb.controller.CalculatorTest" time="0.002" errors="0" skipped="0">
+>>>>>>> cf6e47efcd755ef688df09a9a6d6a508f1f5ab9f
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.17+1"/>
@@ -59,6 +63,10 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
+<<<<<<< HEAD
   <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testAdd" time="0.006"/>
+=======
+  <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testAdd" time="0.002"/>
+>>>>>>> cf6e47efcd755ef688df09a9a6d6a508f1f5ab9f
   <testcase classname="in.javahome.myweb.controller.CalculatorTest" name="testMultiply" time="0"/>
 </testsuite>

@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: in.javahome.myweb.controller.CalculatorTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec
+=======
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec
+>>>>>>> cf6e47efcd755ef688df09a9a6d6a508f1f5ab9f
